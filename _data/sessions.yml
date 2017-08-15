@@ -18,11 +18,13 @@
   id: 505
   title: "Poster Party"
   place: "Hall"
+  description: "Enjoy the novel projects and beautiful music plus wine"
   service: true
 -
   id: 125
   title: "Flash Talks"
   place: "Hall"
+  description: "12 selected posters are pitched in 5 min"
   service: true
 -
   id: 518
@@ -202,4 +204,16 @@
   description: "Abstract: waiting"
   subtype: presentation
   speakers: [25]
+  language: en
+-
+  id: 100
+  title: "Opening Remarks"
+  subtype: presentation
+  speakers: [100]
+  language: en
+-
+  id: 101
+  title: "Introduction of SLST@ShanghaiTech"
+  subtype: presentation
+  speakers: [101]
   language: en

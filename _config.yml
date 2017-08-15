@@ -22,21 +22,21 @@ permalink: "/blog/:title"
 
 # Organizer Info
 organizerName: "ShanghaiTech University"
-organizerAlternateName: "School of Life Sciences, ShanghaiTech University"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerAlternateName: "School of Life Sciences & Technology, ShanghaiTech University"
+organizerDescription: "Committed to serving the national development strategy. The University seeks innovative solutions to address the challenges that China is facing in the field of energy, material, environment, human health, thus to improve productivity driven by innovation, and contribute to the restructuring and development of China."
 organizerEmail: "slst@shanghaitech.edu.cn"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://shanghaitech.edu.cn/"
 
 # Head
-metaKeywords: "ShanghaiTech, iHuman, BioFrontier, Genomics, Genetics, Life Science, siais "
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+metaKeywords: "ShanghaiTech, iHuman, BioFrontier, Genomics, Genetics, Life Science, SIAIS "
+# socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+# socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+# socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-# c4pUrl: "https://www.sojump.hk/jq/15699914.aspx"
-# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://www.sojump.hk/jq/15699914.aspx"
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -45,8 +45,8 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/about_us/", text: "About Us"}
+ # - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/team/", text: "About Us"}
  - {permalink: "http://biofrontier.org/FoCB2016", text: "FoCB2016"}
 bottomNavigationLinks:
  - {link: "https://www.sojump.hk/jq/15699914.aspx", text: "Call for posters"}
@@ -57,7 +57,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroPretitle: "5th Annual ShanghaiTech BioFrontier"
 heroSubtitle: ""
-heroTitle: "Frontier of <typeout> FoGG 2017"
+heroTitle: "Frontier of <typeout> |FoGG 2017"
 eventDate: "20-21 October 2017, Shanghai"
 typeoutTextValues: '"", " Genetics", "Genomics"'
 typeoutFallback: "Genetics & Genomics"
@@ -123,7 +123,7 @@ venueFeatures: ["The space is built by the goals of celebrating human activity a
 # Partners Block
 # organizersTitle: "Organizers"
 # partnersTitle: "Partners"
-# partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Need only one more"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
@@ -205,14 +205,14 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "ShanghaiTech BioFrontier"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "School of Life Sciences & Technology, ShanghaiTech aims to develop into a world-class, research-oriented school in life science and technology, drawing strength not only from its outstanding full-time faculty but also from two affiliated world-class biomedical research institutes at ShanghaiTech (including three laboratories led by Nobel laureates) as well as from select faculty members jointly appointed with institutes of Chinese Academy of Sciences in Shanghai who conduct world-class research. In addition, SLST have priority access to the state-of-art National Research Facilities, and are developing close collaborations with its neighboring R&D centers of multinational pharmaceutical and biotech companies in Zhangjiang High-tech Park—the “Biopharma Valley” of China."
+aboutUs: "SLST (School of Life Sciences & Technology), ShanghaiTech aims to develop into a world-class, research-oriented school in life science and technology, drawing strength not only from its outstanding full-time faculty but also from two affiliated world-class biomedical research institutes at ShanghaiTech (including three laboratories led by Nobel laureates) as well as from select faculty members jointly appointed with institutes of Chinese Academy of Sciences in Shanghai who conduct world-class research. In addition, SLST have priority access to the state-of-art National Research Facilities, and are developing close collaborations with its neighboring R&D centers of multinational pharmaceutical and biotech companies in Zhangjiang High-tech Park—the “Biopharma Valley” of China."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -228,10 +228,10 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Zhangjiang"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi.'}
+ - {title: "From ", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
@@ -260,11 +260,11 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
-hackathonTitle: "Hackathon"
-enableHackathon: true
+# hackathonTitle: "Hackathon"
+# enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
+# aboutHackathonTitle: "Meet our themes"
 # hackathonRows:
 #  - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
 #  - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}

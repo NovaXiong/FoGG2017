@@ -208,7 +208,7 @@
   surname: "ZHAO"
   company: "ShanghaiTech University"
   title: "Assistant Professor"
-  bio: "<p>Predicting the full-length structures of multi-domain GPCRs </p>
+  bio: "<p>Predicting the full-length structures of multi-domain GPCRs</p>
 <p>Discovering ligands for GPCRs and other proteins in cell signaling pathways</p>"
   thumbnailUrl: 23.jpg
   rockstar: true
@@ -229,4 +229,22 @@
   title: "Assistant Professor"
   bio: "Dr. Min Zhuang graduated from the Department for Intensive Instruction (current name: Kuang Yaming Honors School), Nanjing University in 2003. She completed the graduate training at St Jude Children’s Research Hospital and obtained her Ph.D. degree from The University of Tennessee Health Science Center in 2009. She continued her postdoctoral training in the Department of Pharmaceutical Chemistry at University of California San Francisco. In 2014, she joined ShanghaiTech University as a tenure-track assistant professor, PI in the School of Life Sciences and Technology."
   thumbnailUrl: 25.jpg
+  rockstar: true
+- 
+  id: 100
+  name: "Yin"
+  surname: "Jie"
+  company: "ShanghaiTech University"
+  title: "Professor, Deputy President"
+  bio: "Prof. Jie Yin was a professor in Chemistry at Shanghai Jiao Tong University, and served as the Vice President of Shanghai Jiao Tong University for education programs from 2004 to 2009. Currently he is Vice President and Provost of ShanghaiTech University and Deputy-General of Shanghai Municipal Education Commission."
+  thumbnailUrl: 100.jpg
+  rockstar: true
+- 
+  id: 101
+  name: "Haifan"
+  surname: "LIN"
+  company: "ShanghaiTech University"
+  title: "Professor, Founding Dean"
+  bio: "Dr. Lin received his BS degree from Fudan University (1982), and his Ph.D. degree from Cornell University (1990). Following his postdoctoral research at the Carnegie Institution of Washington, he joined the faculty of Duke University Medical School in 1994, where he rose to the rank of Full Professor. He founded and directed the Duke Stem Cell Research Program (2005-2006), and moved to Yale in 2006, where he founded and serves as Director of the Yale Stem Cell Center. He is also Professor of Cell Biology, of Genetics, and of Obstetrics, Gynecology & Reproductive Sciences. He joined ShanghaiTech University in 2013 as Professor-in-Residence of Shanghai Institute for Advanced Immunochemical Studies (SIAIS) and Founding Dean (Adjunct) of School of Life Science and Technology since 2014."
+  thumbnailUrl: 101.jpg
   rockstar: true

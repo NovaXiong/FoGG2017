@@ -2,7 +2,24 @@
   date: "2017-10-20"
   dateReadable: "October 20"
   tracks: 
-    - {title: "Session I: Neural", color: "#90be4e"}
+    - {title: "13:00-13:20 Opening Remarks", color: "#90be4e"}
+  timeslots: 
+    - {
+        startTime: "13:00",
+        endTime: "13:10",
+        sessionIds: [100]
+    }
+    - {
+        startTime: "13:10",
+        endTime: "13:20",
+        sessionIds: [101]
+    }
+
+- 
+  date: "2017-10-20"
+  dateReadable: "October 20"
+  tracks: 
+    - {title: "13:20-14:40 Session I: Neural", color: "#90be4e"}
   timeslots:
     - {
         startTime: "13:20",
@@ -33,7 +50,7 @@
   date: "2017-10-20"
   dateReadable: "October 20"
   tracks: 
-    - {title: "Session II: Developmental", color: "#90be4e"}
+    - {title: "15:10-16:50 Session II: Developmental", color: "#90be4e"}
   timeslots:
     - {
         startTime: "15:10",

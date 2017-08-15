@@ -5,7 +5,11 @@
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
-                <div class="track-header-label">Day {{ forloop.index }}</div>
+                {% if day.dateReadable=="October 20" %}
+                    <div class="track-header-label">Day 1</div>
+                {% else %}
+                    <div class="track-header-label">Day 2</div>
+                {% endif %}
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
