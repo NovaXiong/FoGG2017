@@ -70,7 +70,7 @@ aboutTitle: "About ShanghaiTech BioFrontier"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The annual event related to frontier of life sciences, carefully crafted for you by the novel university ShanghaiTech! Awesome speakers, unbelievable frontiers and lots of fun!" }
  - {title: "Flash talks", image: "flashtalks.jpg", text: "Twelve selected posters will be pitched in 5 min for each. Come and show your talents, you will win the big Prizes!" }
- - {title: "Cocktail party", image: "party.jpg", text: "Freestyle wine party with band in the evening! Want some real team building and recreations? Grab your team and join our party, join ShanghaiTech BioFrontier!" }
+ - {title: "Poster pub", image: "party.jpg", text: "Freestyle wine party with band in the evening! Want some real team building and recreations? Grab your team and join our party, join ShanghaiTech BioFrontier!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -212,7 +212,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "School of Life Sciences & Technology, ShanghaiTech aims to develop into a world-class, research-oriented school in life science and technology, drawing strength not only from its outstanding full-time faculty but also from two affiliated world-class biomedical research institutes at ShanghaiTech (including three laboratories led by Nobel laureates) as well as from select faculty members jointly appointed with institutes of Chinese Academy of Sciences in Shanghai who conduct world-class research. In addition, SLST have priority access to the state-of-art National Research Facilities, and are developing close collaborations with its neighboring R&D centers of multinational pharmaceutical and biotech companies in Zhangjiang High-tech Park—the “Biopharma Valley” of China."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -222,7 +222,7 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
+logisticsMapCenterCoordinates: ""
 logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
 

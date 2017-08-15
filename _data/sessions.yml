@@ -1,6 +1,6 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Tea Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
@@ -10,176 +10,196 @@
   place: "Dining room"
   service: true
 -
+  id: 504
+  title: "Dinner"
+  place: "Dining room"
+  service: true
+-
+  id: 505
+  title: "Poster Party"
+  place: "Hall"
+  service: true
+-
+  id: 125
+  title: "Flash Talks"
+  place: "Hall"
+  service: true
+-
+  id: 518
+  title: "Awards for posters and flash talks"
+  place: "Hall"
+  service: true
+-
   id: 001
   title: "Defining a mechanism through which calcineurin regulates proportions during appendage Regeneration"
-  description: "waiting"
+  description: "Abstract: waiting"
   speakers: [1]
   language: en
 -
   id: 002
   title: "Novel function of NMDA receptor and new progress in its drug discovery"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [2]
   language: en
 -
   id: 003
   title: "Bridging the gap: from neuronal targeting to gap junction formation and beyond"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [3]
   language: en
 -
   id: 004
   title: "Genetic and epigenetic control of T cell function"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [4]
   language: en
 -
   id: 005
   title: "Small, highly active DNAs that hydrolyze DNA"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [5]
   language: en
 -
   id: 006
   title: "Pericentral hepatocytes produce IGF-2 to promote liver regeneration during chronic injuries"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [6]
   language: en
 -
   id: 007
   title: "Quorum Sensing：From microbial ecology to synthetic biology"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [7]
   language: en
 -
   id: 008
   title: "Cell signaling in development and regeneration"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [8]
   language: en
 -
   id: 009
   title: "Hsp90 controls phenotypic variation through regulating conserved protein network hubs"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [9]
   language: en
 -
   id: 010
   title: "The developmental role of epigenetic factor HP1c"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [10]
   language: en
 -
   id: 011
   title: "The function and machenism of alternative polyadenylation in cellular aging"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [11]
   language: en
 -
   id: 012
   title: "An amplifier drives neural stem cell fate commitment and tumorigenesis"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [12]
   language: en
 -
   id: 013
   title: "High throughput sequencing facilitated drug discovery"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [13]
   language: en
 -
   id: 014
   title: "An intrinsic mechanism controls reactivation of neural stem cells by spindle matrix proteins"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [14]
   language: en
 -
   id: 015
   title: "Meta-genomics of the eye"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [15]
   language: en
 -
   id: 016
   title: "Cellular central processing unit: Design of synthetic signaling networks"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [16]
   language: en
 -
   id: 017
   title: "CRISPR: from primed adaptation to genome editing"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [17]
   language: en
 -
   id: 018
   title: "PTM Bioinformatics"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [18]
   language: en
 -
   id: 019
   title: "ALUternative regulation for circular RNA expression and function"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [19]
   language: en
 -
   id: 020
   title: "Synaptic remodeling associated with fear memory"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [20]
   language: en
 -
   id: 021
   title: "Discovery of pan-tumor specific DNA methylation biomarker and application in liquid biopsies"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [21]
   language: en
 -
   id: 022
   title: "Fear erasure facilitated by immature inhibitory neuron transplantation"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [22]
   language: en
 -
   id: 023
   title: "Computer-aided discovery of a molecular mechanism of Traditional Chinese Medicine Danshen"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [23]
   language: en
 -
   id: 024
   title: "Modifications on both sister histone H3s coordinate to regulate chromatin structure and transcription"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [24]
   language: en
 -
   id: 025
   title: "PUP-IT: a novel tagging system for proteomic research"
-  description: "waiting"
+  description: "Abstract: waiting"
   subtype: presentation
   speakers: [25]
   language: en

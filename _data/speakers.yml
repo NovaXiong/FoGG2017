@@ -82,7 +82,7 @@
   surname: "LEU"
   company: "IMB, Academia Sinica"
   title: "Researcher"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 9.jpg
   rockstar: true
 - 
@@ -91,7 +91,7 @@
   surname: "NI"
   company: "Tsinghua University"
   title: "Professor"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 10.jpg
   rockstar: true
 - 
@@ -100,7 +100,7 @@
   surname: "NI"
   company: "Fudan University"
   title: "Professor"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 11.jpg
   rockstar: true
 - 
@@ -109,7 +109,7 @@
   surname: "SONG"
   company: "Peking University"
   title: "Professor"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 12.jpg
   rockstar: true
 - 
@@ -118,7 +118,7 @@
   surname: "WANG"
   company: "Tsinghua University"
   title: "Professor"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 13.jpg
   rockstar: true
 - 
@@ -127,7 +127,7 @@
   surname: "WANG"
   company: "Duke-NUS"
   title: "Professor"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 14.jpg
   rockstar: true
 - 
@@ -136,7 +136,7 @@
   surname: "WEI"
   company: "Sun Yat-sen University"
   title: "Professor"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 4.jpg
   rockstar: true
 - 
@@ -145,7 +145,7 @@
   surname: "WEI"
   company: "Peking University"
   title: "Professor"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 16.jpg
   rockstar: true
 - 
@@ -154,7 +154,7 @@
   surname: "XIANG"
   company: "Institue of Microbiology, CAS"
   title: "Researcher"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 17.jpg
   rockstar: true
 - 
@@ -163,7 +163,7 @@
   surname: "XUE"
   company: "Huazhong UST"
   title: "Professor"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 18.jpg
   rockstar: true
 - 
@@ -172,7 +172,7 @@
   surname: "YANG"
   company: "SIBC, CAS"
   title: "Researcher"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 19.jpg
   rockstar: true
 - 
@@ -190,7 +190,7 @@
   surname: "YU"
   company: "Fudan University"
   title: "Professor"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 21.jpg
   rockstar: true
 - 
@@ -199,7 +199,7 @@
   surname: "YU"
   company: "Fudan University"
   title: "Professor"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 22.jpg
   rockstar: true
 - 
@@ -208,7 +208,8 @@
   surname: "ZHAO"
   company: "ShanghaiTech University"
   title: "Assistant Professor"
-  bio: "waiting"
+  bio: "<p>Predicting the full-length structures of multi-domain GPCRs </p>
+<p>Discovering ligands for GPCRs and other proteins in cell signaling pathways</p>"
   thumbnailUrl: 23.jpg
   rockstar: true
 - 
@@ -217,7 +218,7 @@
   surname: "ZHOU"
   company: "SIBS, CAS"
   title: "Researcher"
-  bio: "waiting"
+  bio: ""
   thumbnailUrl: 24.jpg
   rockstar: true
 - 
@@ -226,6 +227,6 @@
   surname: "ZHUANG"
   company: "ShanghaiTech University"
   title: "Assistant Professor"
-  bio: "waiting"
+  bio: "Dr. Min Zhuang graduated from the Department for Intensive Instruction (current name: Kuang Yaming Honors School), Nanjing University in 2003. She completed the graduate training at St Jude Children’s Research Hospital and obtained her Ph.D. degree from The University of Tennessee Health Science Center in 2009. She continued her postdoctoral training in the Department of Pharmaceutical Chemistry at University of California San Francisco. In 2014, she joined ShanghaiTech University as a tenure-track assistant professor, PI in the School of Life Sciences and Technology."
   thumbnailUrl: 25.jpg
   rockstar: true
