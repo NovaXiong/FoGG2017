@@ -24,22 +24,22 @@
     - {
         startTime: "13:20",
         endTime: "13:40",
-        sessionIds: [001]
+        sessionIds: [012]
     }
     - {
         startTime: "13:40",
         endTime: "14:00",
-        sessionIds: [002]
+        sessionIds: [003]
     }
     - {
         startTime: "14:00",
         endTime: "14:20",
-        sessionIds: [003]
+        sessionIds: [022]
     }
     - {
         startTime: "14:20",
         endTime: "14:40",
-        sessionIds: [004]
+        sessionIds: [020]
     }
     - {
         startTime: "14:40",
@@ -55,17 +55,17 @@
     - {
         startTime: "15:10",
         endTime: "15:30",
-        sessionIds: [001]
+        sessionIds: [008]
     }
     - {
         startTime: "15:30",
         endTime: "15:50",
-        sessionIds: [002]
+        sessionIds: [006]
     }
     - {
         startTime: "15:50",
         endTime: "16:10",
-        sessionIds: [004]
+        sessionIds: [014]
     }
     - {
         startTime: "16:10",
@@ -86,22 +86,22 @@
     - {
         startTime: "17:40",
         endTime: "18:00",
-        sessionIds: [001]
+        sessionIds: [015]
     }
     - {
         startTime: "18:00",
         endTime: "18:20",
-        sessionIds: [002]
+        sessionIds: [009]
     }
     - {
         startTime: "18:20",
         endTime: "18:40",
-        sessionIds: [004]
+        sessionIds: [018]
     }
     - {
         startTime: "18:40",
         endTime: "19:00",
-        sessionIds: [001]
+        sessionIds: [019]
     }
 - 
   date: "2017-10-20"
@@ -125,17 +125,17 @@
     - {
         startTime: "9:00",
         endTime: "9:20",
-        sessionIds: [001]
+        sessionIds: [007]
     }
     - {
         startTime: "9:20",
         endTime: "9:40",
-        sessionIds: [002]
+        sessionIds: [016]
     }
     - {
         startTime: "9:40",
         endTime: "10:00",
-        sessionIds: [004]
+        sessionIds: [017]
     }
     - {
         startTime: "10:00",
@@ -172,27 +172,27 @@
     - {
         startTime: "13:20",
         endTime: "13:40",
-        sessionIds: [002]
+        sessionIds: [013]
     }
     - {
         startTime: "13:40",
         endTime: "14:00",
-        sessionIds: [002, 003]
+        sessionIds: [002]
     }
     - {
         startTime: "14:00",
         endTime: "14:20",
-        sessionIds: [003]
+        sessionIds: [023]
     }
     - {
         startTime: "14:20",
         endTime: "14:40",
-        sessionIds: [004]
+        sessionIds: [011]
     }
     - {
         startTime: "14:40",
         endTime: "15:10",
-        sessionIds: [503]
+        sessionIds: [307]
     }
 - 
   date: "2017-10-21"
@@ -203,27 +203,27 @@
     - {
         startTime: "15:10",
         endTime: "15:30",
-        sessionIds: [002]
+        sessionIds: [005]
     }
     - {
         startTime: "15:30",
         endTime: "15:50",
-        sessionIds: [002]
+        sessionIds: [024]
     }
     - {
         startTime: "15:50",
         endTime: "16:10",
-        sessionIds: [003]
+        sessionIds: [010]
     }
     - {
         startTime: "16:10",
         endTime: "16:30",
-        sessionIds: [004]
+        sessionIds: [021]
     }
     - {
         startTime: "16:30",
         endTime: "16:50",
-        sessionIds: [018]
+        sessionIds: [004]
     }
 - 
   date: "2017-10-21"

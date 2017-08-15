@@ -36,7 +36,7 @@ metaKeywords: "ShanghaiTech, iHuman, BioFrontier, Genomics, Genetics, Life Scien
 
 # Documents
 c4pUrl: "https://www.sojump.hk/jq/15699914.aspx"
-# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/blog/seek-for-sole-sponsor"
 
 
 # Navigation
@@ -47,11 +47,11 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/team/", text: "About Us"}
- - {permalink: "http://focb2016.biofrontier.org/", text: "FoCB2016"}
+ - {link: "http://focb2016.biofrontier.org/", text: "FoCB2016"}
 bottomNavigationLinks:
- - {link: "https://www.sojump.hk/jq/15699914.aspx", text: "Call for posters"}
+ - {permalink: "/blog/call-for-posters", text: "Call for posters"}
 rightNavigationButtons:
- - {link: "https://www.sojump.hk/jq/15699914.aspx", text: "Call for posters"}
+ - {permalink: "/blog/call-for-posters", text: "Call for posters"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,8 +62,8 @@ eventDate: "20-21 October 2017, Shanghai"
 typeoutTextValues: '"", " Genetics", "Genomics"'
 typeoutFallback: "Genetics & Genomics"
 heroButtons:
- - {link: "https://www.sojump.hk/jq/15699914.aspx", text: "Call for posters"}
- - {permalink: "https://www.sojump.hk/jq/15699914.aspx", text: "Join for free"}
+ - {permalink: "/blog/call-for-posters", text: "Call for posters"}
+ - {link: "https://www.sojump.hk/jq/15699914.aspx", text: "Join for free"}
 
 # About Block
 aboutTitle: "About ShanghaiTech BioFrontier"
