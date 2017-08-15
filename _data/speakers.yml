@@ -1,67 +1,231 @@
 - 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  id: 1
+  name: "Christopher"
+  surname: "ANTOS"
+  company: "ShanghaiTech University"
+  title: "Associate Professor"
+  bio: "<p>The Antos group researches tissue regeneration. To understand the biology of regeneration, Dr. Antos is interested in answering three fundamental questions:</p>
+        <p> 1. How are cells at the site of injury induced to regenerate lost tissues? </p>
+        <p> 2. How are cells involved in regeneration controlled to produce the correct pattern? </p>
+        <p> 3. What stops regeneration once the appropriate size is reached? </p>
+        These questions are highly relevant to tissue bioengineering and to the stem cell biology of repair or reconstruction of human tissues. The Antos lab uses the zebrafish to answer these questions, because the zebrafish will regenerate many of its organs, including heart and appendages. Therefore, the lab can describe and dissect the cell and molecular mechanisms involved in the fish’s regeneration abilities and relate them to the limits on mammalian regeneration."
+  thumbnailUrl: 1.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "Email", link: "clantos@shanghaitech.edu.cn"}
+- 
+  id: 2
+  name: "Yelin"
+  surname: "CHEN"
+  company: "IRCBC, CAS"
+  title: "Researcher"
+  bio: ''
+  thumbnailUrl: 2.jpg
+  rockstar: true
+- 
+  id: 3
+  name: "Mei"
+  surname: "DING"
+  company: "IGDB, CAS"
+  title: "Researcher"
+  bio: ""
+  thumbnailUrl: 3.jpg
+  rockstar: true
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Chen"
+  surname: "DONG"
+  company: "Tsinghua University"
+  title: "Professor"
+  bio: ""
+  thumbnailUrl: 4.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Hongzhou"
+  surname: "GU"
+  company: "Fudan University"
+  title: "Professor"
+  bio: ""
+  thumbnailUrl: 5.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Pengyu"
+  surname: "HUANG"
+  company: "ShanghaiTech University"
+  title: "Assitant Professor"
+  bio: ""
+  thumbnailUrl: 6.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "iGEM-ShanghaiTech2017"
+  surname: ""
+  company: "ShanghaiTech University"
+  title: "Student Group"
+  bio: ""
+  thumbnailUrl: 7.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 8
+  name: "Jin"
+  surname: "JIANG"
+  company: "University of Texas"
+  title: "Professor"
+  bio: ""
+  thumbnailUrl: 8.jpg
+  rockstar: true
+- 
+  id: 9
+  name: "Jun-Yi"
+  surname: "LEU"
+  company: "IMB, Academia Sinica"
+  title: "Researcher"
+  bio: "waiting"
+  thumbnailUrl: 9.jpg
+  rockstar: true
+- 
+  id: 10
+  name: "Jianquan"
+  surname: "NI"
+  company: "Tsinghua University"
+  title: "Professor"
+  bio: "waiting"
+  thumbnailUrl: 10.jpg
+  rockstar: true
+- 
+  id: 11
+  name: "Ting"
+  surname: "NI"
+  company: "Fudan University"
+  title: "Professor"
+  bio: "waiting"
+  thumbnailUrl: 11.jpg
+  rockstar: true
+- 
+  id: 12
+  name: "Yan"
+  surname: "SONG"
+  company: "Peking University"
+  title: "Professor"
+  bio: "waiting"
+  thumbnailUrl: 12.jpg
+  rockstar: true
+- 
+  id: 13
+  name: "Dong"
+  surname: "WANG"
+  company: "Tsinghua University"
+  title: "Professor"
+  bio: "waiting"
+  thumbnailUrl: 13.jpg
+  rockstar: true
+- 
+  id: 14
+  name: "Hongyan"
+  surname: "WANG"
+  company: "Duke-NUS"
+  title: "Professor"
+  bio: "waiting"
+  thumbnailUrl: 14.jpg
+  rockstar: true
+- 
+  id: 15
+  name: "Lai"
+  surname: "WEI"
+  company: "Sun Yat-sen University"
+  title: "Professor"
+  bio: "waiting"
+  thumbnailUrl: 4.jpg
+  rockstar: true
+- 
+  id: 16
+  name: "Ping"
+  surname: "WEI"
+  company: "Peking University"
+  title: "Professor"
+  bio: "waiting"
+  thumbnailUrl: 16.jpg
+  rockstar: true
+- 
+  id: 17
+  name: "Hua"
+  surname: "XIANG"
+  company: "Institue of Microbiology, CAS"
+  title: "Researcher"
+  bio: "waiting"
+  thumbnailUrl: 17.jpg
+  rockstar: true
+- 
+  id: 18
+  name: "Yu"
+  surname: "XUE"
+  company: "Huazhong UST"
+  title: "Professor"
+  bio: "waiting"
+  thumbnailUrl: 18.jpg
+  rockstar: true
+- 
+  id: 19
+  name: "Li"
+  surname: "YANG"
+  company: "SIBC, CAS"
+  title: "Researcher"
+  bio: "waiting"
+  thumbnailUrl: 19.jpg
+  rockstar: true
+- 
+  id: 20
+  name: "Yang"
+  surname: "YANG"
+  company: "ShanghaiTech University"
+  title: "Assistant Professor"
+  bio: "Dr. Yang Yang graduated from Zhejiang University in 2005 majoring Biomedical engineering, and obtained her PhD degree in Neuroscience from Stony Brook University in 2010. She conducted her thesis work in Dr. Anthony M. Zador’s lab in Cold Spring Harbor Laboratory. She then joined Dr. Mu-ming Poo’s lab in 2011 as a postdoctoral fellow, and became Associate Investigator in 2015. She joined ShanghaiTech in June, 2017 as assistant professor and principle investigator."
+  thumbnailUrl: 20.jpg
+  rockstar: true
+- 
+  id: 21
+  name: "Wenqiang"
+  surname: "YU"
+  company: "Fudan University"
+  title: "Professor"
+  bio: "waiting"
+  thumbnailUrl: 21.jpg
+  rockstar: true
+- 
+  id: 22
+  name: "Yongchun"
+  surname: "YU"
+  company: "Fudan University"
+  title: "Professor"
+  bio: "waiting"
+  thumbnailUrl: 22.jpg
+  rockstar: true
+- 
+  id: 23
+  name: "Suwen"
+  surname: "ZHAO"
+  company: "ShanghaiTech University"
+  title: "Assistant Professor"
+  bio: "waiting"
+  thumbnailUrl: 23.jpg
+  rockstar: true
+- 
+  id: 24
+  name: "Jinqiu"
+  surname: "ZHOU"
+  company: "SIBS, CAS"
+  title: "Researcher"
+  bio: "waiting"
+  thumbnailUrl: 24.jpg
+  rockstar: true
+- 
+  id: 25
+  name: "Min"
+  surname: "ZHUANG"
+  company: "ShanghaiTech University"
+  title: "Assistant Professor"
+  bio: "waiting"
+  thumbnailUrl: 25.jpg
+  rockstar: true

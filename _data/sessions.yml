@@ -11,49 +11,175 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
+  title: "Defining a mechanism through which calcineurin regulates proportions during appendage Regeneration"
+  description: "waiting"
+  speakers: [1]
   language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Novel function of NMDA receptor and new progress in its drug discovery"
+  description: "waiting"
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [2]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Bridging the gap: from neuronal targeting to gap junction formation and beyond"
+  description: "waiting"
+  subtype: presentation
+  speakers: [3]
+  language: en
+-
+  id: 004
+  title: "Genetic and epigenetic control of T cell function"
+  description: "waiting"
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Small, highly active DNAs that hydrolyze DNA"
+  description: "waiting"
+  subtype: presentation
+  speakers: [5]
+  language: en
+-
+  id: 006
+  title: "Pericentral hepatocytes produce IGF-2 to promote liver regeneration during chronic injuries"
+  description: "waiting"
+  subtype: presentation
+  speakers: [6]
+  language: en
+-
+  id: 007
+  title: "Quorum Sensing：From microbial ecology to synthetic biology"
+  description: "waiting"
+  subtype: presentation
   speakers: [7]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 008
+  title: "Cell signaling in development and regeneration"
+  description: "waiting"
+  subtype: presentation
+  speakers: [8]
+  language: en
+-
+  id: 009
+  title: "Hsp90 controls phenotypic variation through regulating conserved protein network hubs"
+  description: "waiting"
+  subtype: presentation
+  speakers: [9]
+  language: en
+-
+  id: 010
+  title: "The developmental role of epigenetic factor HP1c"
+  description: "waiting"
+  subtype: presentation
+  speakers: [10]
+  language: en
+-
+  id: 011
+  title: "The function and machenism of alternative polyadenylation in cellular aging"
+  description: "waiting"
+  subtype: presentation
+  speakers: [11]
+  language: en
+-
+  id: 012
+  title: "An amplifier drives neural stem cell fate commitment and tumorigenesis"
+  description: "waiting"
+  subtype: presentation
+  speakers: [12]
+  language: en
+-
+  id: 013
+  title: "High throughput sequencing facilitated drug discovery"
+  description: "waiting"
+  subtype: presentation
+  speakers: [13]
+  language: en
+-
+  id: 014
+  title: "An intrinsic mechanism controls reactivation of neural stem cells by spindle matrix proteins"
+  description: "waiting"
+  subtype: presentation
+  speakers: [14]
+  language: en
+-
+  id: 015
+  title: "Meta-genomics of the eye"
+  description: "waiting"
+  subtype: presentation
+  speakers: [15]
+  language: en
+-
+  id: 016
+  title: "Cellular central processing unit: Design of synthetic signaling networks"
+  description: "waiting"
+  subtype: presentation
+  speakers: [16]
+  language: en
+-
+  id: 017
+  title: "CRISPR: from primed adaptation to genome editing"
+  description: "waiting"
+  subtype: presentation
+  speakers: [17]
+  language: en
+-
+  id: 018
+  title: "PTM Bioinformatics"
+  description: "waiting"
+  subtype: presentation
+  speakers: [18]
+  language: en
+-
+  id: 019
+  title: "ALUternative regulation for circular RNA expression and function"
+  description: "waiting"
+  subtype: presentation
+  speakers: [19]
+  language: en
+-
+  id: 020
+  title: "Synaptic remodeling associated with fear memory"
+  description: "waiting"
+  subtype: presentation
+  speakers: [20]
+  language: en
+-
+  id: 021
+  title: "Discovery of pan-tumor specific DNA methylation biomarker and application in liquid biopsies"
+  description: "waiting"
+  subtype: presentation
+  speakers: [21]
+  language: en
+-
+  id: 022
+  title: "Fear erasure facilitated by immature inhibitory neuron transplantation"
+  description: "waiting"
+  subtype: presentation
+  speakers: [22]
+  language: en
+-
+  id: 023
+  title: "Computer-aided discovery of a molecular mechanism of Traditional Chinese Medicine Danshen"
+  description: "waiting"
+  subtype: presentation
+  speakers: [23]
+  language: en
+-
+  id: 024
+  title: "Modifications on both sister histone H3s coordinate to regulate chromatin structure and transcription"
+  description: "waiting"
+  subtype: presentation
+  speakers: [24]
+  language: en
+-
+  id: 025
+  title: "PUP-IT: a novel tagging system for proteomic research"
+  description: "waiting"
+  subtype: presentation
+  speakers: [25]
+  language: en
