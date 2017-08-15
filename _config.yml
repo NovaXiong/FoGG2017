@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/team/", text: "About Us"}
  - {link: "http://focb2016.biofrontier.org/", text: "FoCB2016"}
@@ -70,7 +70,7 @@ aboutTitle: "About ShanghaiTech BioFrontier"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The annual event related to frontier of life sciences, carefully crafted for you by the novel university ShanghaiTech! Awesome speakers, unbelievable frontiers and lots of fun!" }
  - {title: "Flash talks", image: "flashtalks.jpg", text: "Twelve selected posters will be pitched in 5 min for each. Come and show your talents, you will win the big Prizes!" }
- - {title: "Poster pub", image: "party.jpg", text: "Freestyle wine party with band in the evening! Want some real team building and recreations? Grab your team and join our party, join ShanghaiTech BioFrontier!" }
+ - {title: "Poster pub", image: "party.jpg", text: "Freestyle wine party with band in the evening! Want some real team building and recreations? Grab your team and join our poster party, join ShanghaiTech BioFrontier!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -78,7 +78,7 @@ statisticBlock:
  - {count: "360", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "30", specialCharacter: "+", info: "hours", detail: "of pure academic interactions"}
  - {count: "25", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "12", specialCharacter: "", info: "pitches", detail: "plus cocktail party"}
+ - {count: "12", specialCharacter: "", info: "pitches", detail: "plus poster party"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
