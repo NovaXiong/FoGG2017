@@ -36,7 +36,7 @@ metaKeywords: "ShanghaiTech, iHuman, BioFrontier, Genomics, Genetics, Life Scien
 
 # Documents
 c4pUrl: "https://www.sojump.hk/jq/15699914.aspx"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/team/", text: "About Us"}
- - {permalink: "http://biofrontier.org/FoCB2016", text: "FoCB2016"}
+ - {permalink: "http://focb2016.biofrontier.org/", text: "FoCB2016"}
 bottomNavigationLinks:
  - {link: "https://www.sojump.hk/jq/15699914.aspx", text: "Call for posters"}
 rightNavigationButtons:

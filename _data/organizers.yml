@@ -1,4 +1,5 @@
 - 
   group: "Organizer"
   elements: 
-    - {name: "ShanghaiTech University ", description: "ShanghaiTech", link: "http://www.shanghaitech.edu.cn/", imageUrl: "shanghaitech.png"}
+    - {name: "ShanghaiTech BioFrontier", description: "BioFrontier", link: "http://biofrontier.org/", imageUrl: "favicon.svg"}
+    - {name: "ShanghaiTech University", description: "ShanghaiTech University", link: "http://www.shanghaitech.edu.cn/", imageUrl: "shanghaitech.png"}
