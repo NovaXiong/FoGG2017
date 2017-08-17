@@ -48,9 +48,9 @@
             map: map,
             position: [121.593861,31.178949],
             icon: new AMap.Icon({            
-                size: new AMap.Size(108, 108),  //图标大小
+                size: new AMap.Size(128, 128),  //图标大小
                 image: "/img/sprites/click.svg",
-                // imageOffset: new AMap.Pixel(0, -60)
+                imageOffset: new AMap.Pixel(28, 28)
             })        
 
         });
@@ -70,7 +70,7 @@
     var infoWindow = new AMap.InfoWindow({
         isCustom: true,  //使用自定义窗体
         content: createInfoWindow(title, content.join("<br/>")),
-        offset: new AMap.Pixel(16, -45)
+        offset: new AMap.Pixel(38, -18)
     });
 
 
