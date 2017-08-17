@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The 4th SLST Annual Forum Brings 400 Cell Biology Researchers to ShanghaiTech"
-date:   2017-01-08 08:00:00
+date:   2016-12-18 08:00:00
 isStaticPost: false
 ---
 
@@ -17,8 +17,8 @@ The forum also invited two winning teams from iGEM (the International Geneticall
  
 The annual SLST forum has been held since 2013 with different topics each year. It is designed to build a platform for academic interaction and research cooperation for our young scientists.
 
-![](http://www.shanghaitech.edu.cn/upload/image/20161219/0249400294.jpg)
-![](http://www.shanghaitech.edu.cn/upload/image/20161219/0249147777.jpg)
-![](http://www.shanghaitech.edu.cn/upload/image/20161219/0249283458.jpg)
-![](http://www.shanghaitech.edu.cn/upload/image/20161219/0249446090.jpg)
-![](http://www.shanghaitech.edu.cn/upload/image/20161219/0249506004.jpg)
+<img src="http://www.shanghaitech.edu.cn/upload/image/20161219/0249400294.jpg" style="width: 100%">
+<img src="http://www.shanghaitech.edu.cn/upload/image/20161219/0249147777.jpg" style="width: 100%">
+<img src="http://www.shanghaitech.edu.cn/upload/image/20161219/0249283458.jpg" style="width: 100%">
+<img src="http://www.shanghaitech.edu.cn/upload/image/20161219/0249446090.jpg" style="width: 100%">
+<img src="http://www.shanghaitech.edu.cn/upload/image/20161219/0249506004.jpg" style="width: 100%">

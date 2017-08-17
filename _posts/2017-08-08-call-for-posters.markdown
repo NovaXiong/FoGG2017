@@ -11,12 +11,12 @@ Please read the information about attending the Poster session. Awards and certi
 
 #### Highlight:
 1. An abstract is needed to submit by this survey before 30 SEP 2017, midnight Beijing Time (See Poster abstract session).
-2. A 120cm high X 90cm wide poster is needed for the poster presentation (See Poster presentation section).
+2. A <strong>120cm high X 90cm wide</strong> poster is needed for the poster presentation (See Poster presentation section).
 3.You should also prepare a short oral presentation (up to 4.5 minutes and 3 ppt slides, including a title slide) , in case your poster is selected. (see Poster oral presentation session)
 
 #### Poster abstract submission
 
-Abstract submission Deadline: 30 SEP 2017,midnight Beijing Time (UCT+8). 
+<strong>Abstract submission Deadline</strong>: 30 SEP 2017,midnight Beijing Time (UCT+8). 
 
 1. Abstracts should include new and unpublished material, and should only be submitted if at least one author plans to attend the meeting and present the in the poster session.
 
@@ -76,7 +76,7 @@ We wish to provide students/postdocs/technicians an opportunity to introduce the
 
 If you have any questions, please contact slst-conference@shanghaitech.edu.cn and state you are attending ShanghaiTech BioFrontier: Frontier of Genetics and Genomics (FoGG2017)
 
-#### Please submit your posters [here](https://www.sojump.hk/jq/15699914.aspx).
+#### Please submit your posters <a herf="https://www.sojump.hk/jq/15699914.aspx" target='_blank'>here</a>.
 __Deadline__ is 30 SEP, 2017
 
 #### Any questions? 
