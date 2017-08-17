@@ -3,6 +3,8 @@ gems:
 - jekyll-sitemap
 safe: false
 
+cdnurl: "http://biofrontier.oss-cn-hangzhou.aliyuncs.com/fogg2017/"
+
 # Build Settings
 markdown: kramdown
 permalink: pretty
