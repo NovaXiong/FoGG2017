@@ -35,7 +35,7 @@
   //地图初始化时，在地图上添加一个marker标记,鼠标点击marker可弹出自定义的信息窗体
     var map = new AMap.Map("mapContainer", {
         resizeEnable: true,
-        dragEnable: false,
+        dragEnable: true,
         scrollWheel:false,
         zoom: 16,
         center: [121.593861,31.178949]
