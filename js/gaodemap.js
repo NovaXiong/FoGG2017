@@ -43,7 +43,7 @@
     addMarker();
     //添加marker标记
     function addMarker() {
-        map.clearMap();
+        // map.clearMap();
         var marker = new AMap.Marker({
             map: map,
             position: [121.593861,31.178949]
@@ -59,8 +59,8 @@
     var title = 'ShanghaiTech FoGG 2017',
         content = [];
     content.push("<img src='https://webapi.amap.com/images/amap.jpg'><a>地址：</a> 上海市浦东新区环科路199号");
-    content.push("<a>会场：</a> 上海科技大学生命学院L楼1层报告厅");
-    content.push("<a href='http://ditu.amap.com/place/B0FFHGH56Y'><h6>跳转到导航</h6></a>");
+    content.push("<a>Location:</a> No. 199, Huanke Rd, Pudong District, Shanghai, 201210, China");
+    content.push("<a href='http://ditu.amap.com/place/B0FFHGH56Y' target='_blank'><h6>Navigate there</h6></a>");
     var infoWindow = new AMap.InfoWindow({
         isCustom: true,  //使用自定义窗体
         content: createInfoWindow(title, content.join("<br/>")),
@@ -112,3 +112,4 @@
     function closeInfoWindow() {
         map.clearInfoWindow();
     }
+
