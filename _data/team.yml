@@ -2,41 +2,41 @@
   id: 1
   name: "Ji-Long"
   surname: "LIU"
-  title: "Professor, Deputy Dean"
+  title: "Professor, Deputy Dean, ShanghaiTech"
   thumbnailUrl: 102.jpg
   subteam: true
 - 
   id: 0
   name: "Shuijin"
   surname: "HE"
-  title: "Assistant Professor"
+  title: "Assistant Professor, ShanghaiTech"
   thumbnailUrl: 104.jpg
   subteam: true
 - 
   id: 3
   name: "Haopeng"
   surname: "WANG"
-  title: "Assistant Professor"
+  title: "Assistant Professor, ShanghaiTech"
   thumbnailUrl: 103.jpg
   subTeam: true
 - 
   id: 2
   name: "Junxia"
   surname: "LU"
-  title: "Assistant Professor"
+  title: "Assistant Professor, ShanghaiTech"
   thumbnailUrl: 105.jpg
   subteam: true
 - 
   id: 4
   name: "Suwen"
   surname: "ZHAO"
-  title: "Assistant Professor"
+  title: "Assistant Professor, ShanghaiTech"
   thumbnailUrl: 23.jpg
   subTeam: true
   id: 5
 -
   name: "Huanhu"
   surname: "ZHU"
-  title: "Assistant Professor"
+  title: "Assistant Professor, ShanghaiTech"
   thumbnailUrl: 106.jpg
   subTeam: true

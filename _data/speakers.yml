@@ -60,8 +60,8 @@
   rockstar: true
 - 
   id: 7
-  name: "iGEM-ShanghaiTech2017"
-  surname: ""
+  name: "iGEM"
+  surname: "ShanghaiTech2017"
   company: "ShanghaiTech University"
   title: "Student Group"
   bio: ""
@@ -152,7 +152,7 @@
   id: 17
   name: "Hua"
   surname: "XIANG"
-  company: "Institue of Microbiology, CAS"
+  company: "Inst of Microbio, CAS"
   title: "Researcher"
   bio: ""
   thumbnailUrl: 17.jpg

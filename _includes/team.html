@@ -1,29 +1,24 @@
-<!-- Begin Team List-->
-<section id="team" class="team">
+
+<section id="rockstar-speakers" class="rockstar-speakers image-section parallax" style="background-image: url({{ site.cdnurl }}{{ site.rockstarSpeakersImage }});">
+    <div class="overlay solid-overlay"></div>
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <!-- <h3>{{ site.teamBlockTitle }}</h3> -->
             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
         </div>
-        <div class="col-lg-10 col-lg-offset-1 text-center">
+        <div class="col-lg-10 col-lg-offset-1 rockstar-speakers-list">
             <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Program committee</h4>
             {% for teamMember in site.data.team %}
-            <div class="effect-wrapper col-md-3 col-sm-3 col-xs-6 cols-centered appear-animation">
-                <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
-                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.cdnurl | append: teamMember.thumbnailUrl }})">
-                        <div class="overlay solid-overlay"></div>
-                        <figcaption>
-                            <div class="col-md-8 col-xs-8 text-left">
-                                <h2 class="name">{{ teamMember.name }} <span>{{ teamMember.surname }}</span></h2>
-                                <div class="clearfix"></div>
-                                <span class="position">{{ teamMember.title }}</span>
-                            </div>
-                        </figcaption>
-                    </figure>
+            <div class="col-md-3 col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="0">
+                <div class="rockstar-speaker">
+                    <div class="flow-img img-circle rockstar-speaker-img" style="background-image: url({{ site.cdnurl | append: teamMember.thumbnailUrl }})" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+
+                    </div>
+                    <div class="name">{{ teamMember.name }} {{ teamMember.surname }}</div>
+                    <div class="sub">{{ teamMember.title }}</div>
                 </div>
             </div>
             {% endfor %}
+            <div class="clearfix"></div> 
         </div>
     </div>
 </section>
-<!-- End Team List -->

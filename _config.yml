@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "FoGG 2017"
+title: "FoGG2017"
 email: "xiongzhp@shanghaitech.edu.cn"
 description: "The 5th ShanghaiTech BioFrontier, Frontier of Genetics & Genomics"
 # baseurl: "/FoGG2017"
@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/team/", text: "About Us"}
  - {link: "http://focb2016.biofrontier.org/", text: "FoCB2016"}
@@ -60,7 +60,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroPretitle: "5th Annual ShanghaiTech BioFrontier"
 heroSubtitle: ""
-heroTitle: "Frontier of <typeout> |FoGG 2017"
+heroTitle: "Frontier of <typeout> |FoGG2017"
 eventDate: "20-21 October 2017, Shanghai"
 typeoutTextValues: '"", " Genetics", "Genomics"'
 typeoutFallback: "Genetics & Genomics"

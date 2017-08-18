@@ -7,6 +7,14 @@ isStaticPost: false
 
 Dear scientists/postdocs/students, Welcome to ShanghaiTech BioFrontier: Frontier of Genetics and Genomics (FoGG2017) Poster session.
 
+
+IF you have read the undermentioned infomation, 
+
+##### please submit your posters <a href="https://www.sojump.hk/jq/15699914.aspx" target='_blank'>here</a>.
+__Deadline__ is 30 SEP, 2017
+
+IF NOT,
+
 Please read the information about attending the Poster session. Awards and certificates would be assigned to the best 10 presenters. 
 
 #### Highlight:
@@ -76,7 +84,7 @@ We wish to provide students/postdocs/technicians an opportunity to introduce the
 
 If you have any questions, please contact slst-conference@shanghaitech.edu.cn and state you are attending ShanghaiTech BioFrontier: Frontier of Genetics and Genomics (FoGG2017)
 
-#### Please submit your posters <a herf="https://www.sojump.hk/jq/15699914.aspx" target='_blank'>here</a>.
+#### Please submit your posters <a href="https://www.sojump.hk/jq/15699914.aspx" target='_blank'>here</a>.
 __Deadline__ is 30 SEP, 2017
 
 #### Any questions? 
