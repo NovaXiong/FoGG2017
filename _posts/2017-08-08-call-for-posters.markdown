@@ -10,7 +10,7 @@ Dear scientists/postdocs/students, Welcome to ShanghaiTech BioFrontier: Frontier
 
 IF you have read the undermentioned infomation, 
 
-##### please submit your posters <a href="https://www.sojump.hk/jq/15699914.aspx" target='_blank'>here</a>.
+##### Please submit your posters <a href="https://www.sojump.hk/jq/15699914.aspx" target='_blank'>here</a>.
 __Deadline__ is 30 SEP, 2017
 
 IF NOT,
@@ -18,9 +18,12 @@ IF NOT,
 Please read the information about attending the Poster session. Awards and certificates would be assigned to the best 10 presenters. 
 
 #### Highlight:
+
 1. An abstract is needed to submit by this survey before 30 SEP 2017, midnight Beijing Time (See Poster abstract session).
+
 2. A <strong>120cm high X 90cm wide</strong> poster is needed for the poster presentation (See Poster presentation section).
-3.You should also prepare a short oral presentation (up to 4.5 minutes and 3 ppt slides, including a title slide) , in case your poster is selected. (see Poster oral presentation session)
+
+3. You should also prepare a short oral presentation (up to 4.5 minutes and 3 ppt slides, including a title slide) , in case your poster is selected (see Poster oral presentation session).
 
 #### Poster abstract submission
 
@@ -69,7 +72,7 @@ Please read the information about attending the Poster session. Awards and certi
 
 3. Refreshment will be provided during the poster session. 
 
-Please note: Taking or sharing photos or videos of posters is permitted only with thepresenter's consent during the assigned poster session. Taking photos of posters while the presenter is not present is strictly prohibited. By attending this conference, you grant our conference committee the right to use your photograph and name for use in news and reports. 
+Please note: Taking or sharing photos or videos of posters is permitted only with the presenter's consent during the assigned poster session. Taking photos of posters while the presenter is not present is strictly prohibited. By attending this conference, you grant our conference committee the right to use your photograph and name for use in news and reports. 
 
 
 #### Poster oral presentation session:
