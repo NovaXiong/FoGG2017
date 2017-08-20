@@ -101,7 +101,7 @@
     - {
         startTime: "18:40",
         endTime: "19:00",
-        sessionIds: [019]
+        sessionIds: [002]
     }
 - 
   date: "2017-10-20"
@@ -177,7 +177,7 @@
     - {
         startTime: "13:40",
         endTime: "14:00",
-        sessionIds: [002]
+        sessionIds: [019]
     }
     - {
         startTime: "14:00",

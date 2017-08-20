@@ -4,41 +4,45 @@
   surname: "LIU"
   title: "Professor, Deputy Dean, ShanghaiTech"
   thumbnailUrl: 102.jpg
-  link: http://www.shanghaitech.edu.cn/faculty/slst/people/1189.html
+  link: http://www.shanghaitech.edu.cn/eng/faculty/slst/people/299.html
   subteam: true
 - 
   id: 0
   name: "Shuijin"
   surname: "HE"
-  title: "Assistant Professor, ShanghaiTech"
+  title: "Assistant Professor, PI, ShanghaiTech"
   thumbnailUrl: 104.jpg
-  link: http://www.shanghaitech.edu.cn/faculty/slst/people/1189.html
+  link: http://www.shanghaitech.edu.cn/eng/faculty/slst/people/260.html
   subteam: true
 - 
   id: 3
   name: "Haopeng"
   surname: "WANG"
-  title: "Assistant Professor, ShanghaiTech"
+  title: "Assistant Professor, PI, ShanghaiTech"
   thumbnailUrl: 103.jpg
+  link: http://www.shanghaitech.edu.cn/eng/faculty/slst/people/266.html
   subTeam: true
 - 
   id: 2
   name: "Junxia"
   surname: "LU"
-  title: "Assistant Professor, ShanghaiTech"
+  title: "Assistant Professor, PI, ShanghaiTech"
   thumbnailUrl: 105.jpg
+  link: http://www.shanghaitech.edu.cn/eng/faculty/slst/people/254.html
   subteam: true
 - 
   id: 4
   name: "Suwen"
   surname: "ZHAO"
-  title: "Assistant Professor, ShanghaiTech"
+  title: "Assistant Professor, PI, ShanghaiTech"
   thumbnailUrl: 23.jpg
+  link: http://www.shanghaitech.edu.cn/eng/faculty/slst/people/237.html
   subTeam: true
-  id: 5
 -
+  id: 5
   name: "Huanhu"
   surname: "ZHU"
-  title: "Assistant Professor, ShanghaiTech"
+  title: "Assistant Professor, PI, ShanghaiTech"
   thumbnailUrl: 106.jpg
+  link: http://www.shanghaitech.edu.cn/eng/faculty/slst/people/281.html
   subTeam: true
