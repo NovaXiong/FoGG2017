@@ -5,4 +5,4 @@ date:   2017-08-08 18:00:00
 isStaticPost: false
 ---
 
-We are seeking for one more sponsor except ShanghaiTech University to cover the expenses of awarding excellent presenters. Note that you cannot put up your stand at the venue, you can only show here at the website and in the final awarding ceremony. Ha Ha Ha Ha Ha Ha!!!
+We are seeking for one more sponsor except ShanghaiTech University to cover the expenses of awarding excellent presenters. Note that you cannot title the event, you can only show here at the website and in the final awarding ceremony.
