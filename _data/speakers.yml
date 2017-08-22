@@ -37,7 +37,7 @@
   surname: "DONG"
   company: "Tsinghua University"
   title: "Professor"
-  bio: ""
+  bio: "Dr. Dong is Professor and Director of the Institute for Immunology and Dean of the School of Medicine at Tsinghua University, Beijing, China. Dr. Dong served as a Professor of Immunology and the Director of the Center for inflammation and Cancer at the University of Texas MD Anderson Cancer Center before his current position. Dr. Dong’s research is to understand the molecular mechanisms whereby immune and inflammatory responses are normally regulated, and to apply this knowledge to the understanding and treatment of autoimmunity and allergy disorders as well as cancer. The work from Dr. Dong’s group has led to the discoveries of Th17 and T follicular helper (Tfh) cell subsets in the immune system and elucidation of their biological and pathological functions. His group has also helped to characterize the function of IL-17 and B7-butyrophilin family members in the immune system. Dr. Dong has over 190 publications and was rated highly cited researcher by Thomson Reuters in 2014, 2015 and 2016."
   thumbnailUrl: 4.jpg
   rockstar: true
 - 
@@ -54,7 +54,7 @@
   name: "Pengyu"
   surname: "HUANG"
   company: "ShanghaiTech University"
-  title: "Assitant Professor"
+  title: "Assitant Professor, PI"
   bio: ""
   thumbnailUrl: 6.jpg
   rockstar: true
@@ -81,7 +81,7 @@
   name: "Jun-Yi"
   surname: "LEU"
   company: "IMB, Academia Sinica"
-  title: "Researcher"
+  title: "Research Fellow"
   bio: ""
   thumbnailUrl: 9.jpg
   rockstar: true
@@ -108,8 +108,8 @@
   name: "Yan"
   surname: "SONG"
   company: "Peking University"
-  title: "Professor"
-  bio: ""
+  title: "Investigator"
+  bio: "The main research interest of my laboratory focuses on the understanding of cellular and molecular mechanisms underlying self-renewal, migration and differentiation of normal and cancer stem cells. Stem cells yield promise for regenerative medicine but also pose huge challenges. It remains uncertain how to inhibit stem-cell-derived tumor formation without harming normal stem cells. It is likewise unclear how directional stem cell migration, a critical step in tissue regeneration, is orchestrated. Using newly-established or previously-unexplored stem cell models in Drosophila, we employ a convergence of fly genetics, cell biology, biochemistry and in vivo imaging to investigate a few fundamental questions: 1) How normal stem cells within a specific tissue are maintained and how to distinguish normal from cancer stem cells? 2) During normal development and upon tissue injury, how guidance cues may be converted into physical movement of stem cells in a timely and directional manner? Since the fundamental principles we unravel using the relatively simple Drosophila stem cell models are likely to be conserved in mammals, our studies promise to provide new insights into anti-cancer therapy and regenerative medicine."
   thumbnailUrl: 12.jpg
   rockstar: true
 - 
@@ -117,8 +117,11 @@
   name: "Dong"
   surname: "WANG"
   company: "Tsinghua University"
-  title: "Professor"
-  bio: ""
+  title: "Investigator"
+  bio: "My laboratory (Cancer and Genomics) is trying to understand the mechanisms underlying regulated gene expression and transcriptional programming/reprogramming in cancer cells during tumorigenesis by utilizing combined genomic, epigenomic and chemical genomic approaches. Current research projects in my laboratory include: 
+        <br>(1) Revealing genetic and epigenetic mechanisms underlying transcriptional reprogramming;
+        <br>(2) Investigating roles of non-coding RNAs in regulated gene expression;
+        <br>(3) Using chemical genetics approaches to identify small molecules against cancers;"
   thumbnailUrl: 13.jpg
   rockstar: true
 - 
@@ -126,8 +129,8 @@
   name: "Hongyan"
   surname: "WANG"
   company: "Duke-NUS"
-  title: "Professor"
-  bio: ""
+  title: "Associate Professor, Deputy Director"
+  bio: "Dr. Wang is a recipient of Singapore National Academy of Science Young Scientist Award (2008) and National Research Foundation (NRF) Research Fellowship (2009). The choice of self-renewal versus differentiation is a fundamental issue in stem cell and cancer biology. Recently, Drosophila melanogaster neural stem cells, larval brain neuroblasts, were emerged as an excellent model for study stem cell self-renewal and tumorigenesis. We are focused on identifying brain tumor suppressors and underlying mechanisms by which they prevent tumor formation in larval brains. Currently, we are interested in addressing the following key questions: What mutations trigger neural stem cells to become cancer stem cells? How asymmetric divisions of neural stem cells are regulated? What are the mechanisms that prevent more mature cells from dedifferentiating back into neural stem cells?"
   thumbnailUrl: 14.jpg
   rockstar: true
 - 
@@ -154,7 +157,8 @@
   surname: "XIANG"
   company: "Inst of Microbio, CAS"
   title: "Researcher"
-  bio: ""
+  bio: "My research group is mainly interested in the genetics and bioengineering of the extremely halophilic Archaea (Haloarchaea) & thermophilic Bacteria. Haloarchaea belong to the family Halobacteriaceae. They require high salt concentrations for optimal growth, and are normally found in salt lakes, sea salterns and other hypersaline environments. We are particularly interested in the DNA replication, gene expression regulation, genetic manipulation and bioengineering in the extremely halophilic Archaea. We also work with a thermophilic bacterium Thermoanaerobacter tengcongensis, as an important reference system in our research of archaeal genetics. 
+<br>Our current research projects including: 1) Replication mechanism and genetic manipulation of Haloarchaea; 2) Replication mechanism and heat adaptation of thermophilic bacteria; 3) Regulation of stress-induced gene expression in Haloarchaea; 4) Molecular biology of halocins, the protein antibiotics from Haloarchaea; 5) Biosynthesis of polyhydroxyalkanoates (PHA) in Haloarchaea. These projects were funded by grants from the Ministry of Science & Technology of China, the National Natural Science Foundation of China, and the Chinese Academy of Sciences."
   thumbnailUrl: 17.jpg
   rockstar: true
 - 
@@ -163,7 +167,12 @@
   surname: "XUE"
   company: "Huazhong UST"
   title: "Professor"
-  bio: ""
+  bio: "Dr. Yu Xue is a professor at the Department of Biomedical Engineering of College of Life Science and Technology of Huazhong University of Science and Technology.
+        <br>He received his B.S. in Polymer Materials and Technology in 2002 and B.E. in Computer Science and Technology in 2003 from the University of Science and Technology of China (USTC). He completed his Ph.D. training in Cell Biology and Bioinformatics in USTC (2002-2006). After a short stage as a research assistant (2007.1-2007.7), he was recruited as an associate professor at the Department of Systems Biology of Life Science School of USTC (2007-2009).
+        <br>Dr. Xue has published extensively on computational studies of post-translational modifications (PTMs), including developing novel GPS (Group-based Prediction System) series algorithms, studying several new PTMs (eg., epigenetic modifications), constructing easy-to-use softwares and databases, and proteome-wide analysis of PTMs substrates, etc. His group is currently combining systems biology, bioinformatics, and molecular & cellular biology approaches to study genetic variations that potentially influence protein modification status.
+        <br>Dr. Xue is an academic Editor of PLoS ONE, and an associate Editor of BMC Genomics. He is also an active blogger for ScienceNet (In Chinese, http://blog.sciencenet.cn/u/DaCaiNiao) . He is quite active on pushing the communication and collaboration of young bioinformatists in China.
+        <br>Dr. Xue hope to resolve ALL computational problems for PTMs, but perhaps this aim might not be realized until his retirement. Thus, any collaborations, discussions and communications from all aspects including experimentalists and bioinformatists are warming welcome.
+        <br>The most favorable word for Dr. Xue is from Steven Wright, an American comedian and writer: \"If you're not part of the solution, you're part of the precipitate\"."
   thumbnailUrl: 18.jpg
   rockstar: true
 - 
@@ -180,7 +189,7 @@
   name: "Yang"
   surname: "YANG"
   company: "ShanghaiTech University"
-  title: "Assistant Professor"
+  title: "Assistant Professor, PI"
   bio: "Dr. Yang Yang graduated from Zhejiang University in 2005 majoring Biomedical engineering, and obtained her PhD degree in Neuroscience from Stony Brook University in 2010. She conducted her thesis work in Dr. Anthony M. Zador’s lab in Cold Spring Harbor Laboratory. She then joined Dr. Mu-ming Poo’s lab in 2011 as a postdoctoral fellow, and became Associate Investigator in 2015. She joined ShanghaiTech in June, 2017 as assistant professor and principle investigator."
   thumbnailUrl: 20.jpg
   rockstar: true
@@ -190,7 +199,7 @@
   surname: "YU"
   company: "Fudan University"
   title: "Professor"
-  bio: ""
+  bio: "Chief-scientist of 973 project “Chromatin decode and its application in medical science”. Professor of “Chang Jiang scholars program”. PI of Institutes of Biomedical sciences of Fudan University. MD and PhD degree from the Fourth Military medical University. From 2001 to 2007 postdoc at Uppsala University and Johns Hopkins University Medical Center focus on epigenetics. From Nov 2007, faculty working in Columbia University as Associate Research Scientist studying on epigenetics and kidney development. Papers are published on Nature, Nature genetics, JAMA."
   thumbnailUrl: 21.jpg
   rockstar: true
 - 
@@ -207,7 +216,7 @@
   name: "Suwen"
   surname: "ZHAO"
   company: "ShanghaiTech University"
-  title: "Assistant Professor"
+  title: "Assistant Professor, PI"
   bio: "<p>Predicting the full-length structures of multi-domain GPCRs</p>
 <p>Discovering ligands for GPCRs and other proteins in cell signaling pathways</p>"
   thumbnailUrl: 23.jpg
@@ -226,14 +235,14 @@
   name: "Min"
   surname: "ZHUANG"
   company: "ShanghaiTech University"
-  title: "Assistant Professor"
+  title: "Assistant Professor, PI"
   bio: "Dr. Min Zhuang graduated from the Department for Intensive Instruction (current name: Kuang Yaming Honors School), Nanjing University in 2003. She completed the graduate training at St Jude Children’s Research Hospital and obtained her Ph.D. degree from The University of Tennessee Health Science Center in 2009. She continued her postdoctoral training in the Department of Pharmaceutical Chemistry at University of California San Francisco. In 2014, she joined ShanghaiTech University as a tenure-track assistant professor, PI in the School of Life Sciences and Technology."
   thumbnailUrl: 25.jpg
   rockstar: true
 - 
   id: 100
-  name: "Yin"
-  surname: "Jie"
+  name: "Jie"
+  surname: "YIN"
   company: "ShanghaiTech University"
   title: "Professor, Vice President"
   bio: "Prof. Jie Yin was a professor in Chemistry at Shanghai Jiao Tong University, and served as the Vice President of Shanghai Jiao Tong University for education programs from 2004 to 2009. Currently he is Vice President and Provost of ShanghaiTech University and Deputy-General of Shanghai Municipal Education Commission."
