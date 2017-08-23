@@ -186,7 +186,8 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.shanghaitech.edu.cn/", text: "shanghaitech.edu.cn"}
+   - {link: "http://slst.shanghaitech.edu.cn/", text: "SLST, ShanghaiTech"}
+   - {link: "http://www.shanghaitech.edu.cn/", text: "ShanghaiTech University"}
    - {link: "http://ihuman.shanghaitech.edu.cn/Chinese", text: "iHuman, ShanghaiTech"}
    - {link: "http://siais.shanghaitech.edu.cn/", text: "SIAIS, ShanghaiTech"}
    - {link: "http://www.ncpss.org/", text: "National Center for Protein Science"}
