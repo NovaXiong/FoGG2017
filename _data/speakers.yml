@@ -179,7 +179,7 @@
   id: 19
   name: "Li"
   surname: "YANG"
-  company: "SIBC, CAS"
+  company: "PICB, CAS"
   title: "Researcher"
   bio: ""
   thumbnailUrl: 19.jpg
@@ -223,9 +223,9 @@
   rockstar: true
 - 
   id: 24
-  name: "Jinqiu"
+  name: "Jingqiu"
   surname: "ZHOU"
-  company: "SIBS, CAS"
+  company: "SIBCB, CAS"
   title: "Researcher"
   bio: ""
   thumbnailUrl: 24.jpg
